@@ -13,7 +13,7 @@ per-question timer, and ends on a results screen.
 
 | Loading | Question | Correct Answer | Wrong Answer | Streak | Results | Celebration |
 |---|---|---|---|---|---|---|
-| ![Loading](screenshots/loading.jpeg) | ![Question](screenshots/question.jpeg) | ![Correct](screenshots/correct.jpeg) | ![Wrong](screenshots/wrong.jpeg) | ![Streak](screenshots/streak.jpeg) | ![Results](screenshots/results.jpeg) | ![Celebration](screenshots/celebrate.jpeg) |
+| ![Loading](screenshots/loading.jpeg) | ![Question](screenshots/question.jpeg) | ![Correct](screenshots/correct.jpeg) | ![Wrong](screenshots/wrong.jpeg) | ![Streak](screenshots/streak.jpeg) | ![Results](screenshots/result.jpeg) | ![Celebration](screenshots/celebrate.jpeg) |
 
 ## Architecture
 
