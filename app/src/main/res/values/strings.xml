@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SparkQuiz</string>
+
+    <string name="app_tagline">ANDROID DEV TRIVIA</string>
+    <string name="loading_questions">Loading your quiz…</string>
+    <string name="generic_error">Something went wrong. Please try again.</string>
+    <string name="retry">Retry</string>
+
+    <string name="skip">Skip</string>
+    <string name="question_progress">QUESTION %1$d OF %2$d</string>
+    <string name="streak_celebration">⚡ Streak of %1$d!</string>
+
+    <string name="results_title">Quiz Complete!</string>
+    <string name="results_subtitle">Here\'s how you did</string>
+    <string name="results_correct">Correct</string>
+    <string name="results_longest_streak">Best Streak</string>
+    <string name="results_skipped">%1$d question(s) skipped</string>
+    <string name="restart_quiz">Restart Quiz</string>
+
+    <string name="cd_correct_answer">Correct answer</string>
+    <string name="cd_wrong_answer">Incorrect answer</string>
+
+    <string-array name="encouragement_messages">
+        <item>Not quite — you\'ll get the next one.</item>
+        <item>So close. Shake it off.</item>
+        <item>Missed it, but you\'re still in this.</item>
+        <item>Tricky one. Onward.</item>
+        <item>Nice try — keep the momentum.</item>
+        <item>That one got you. Next one won\'t.</item>
+    </string-array>
+</resources>
